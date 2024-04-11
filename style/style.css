@@ -70,6 +70,7 @@ body{
     margin-bottom: 15px;
 }
 
+/***************** Home ******************/
 .nav{
     background: #fff;
     display: flex;
@@ -81,6 +82,10 @@ body{
 .logo{
     font-size: 25px;
     font-weight: 900;
+}
+.logo a{
+    text-decoration: none;
+    color: #000;
 }
 .right-links a{
     padding: 0 10px;
